@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/sonucctv1/static/css/main.17acd829.css",
+    "main.css": "/sonucctv1/static/css/main.83090f46.css",
     "main.js": "/sonucctv1/static/js/main.286e7f65.js",
     "static/js/453.d1aa94b4.chunk.js": "/sonucctv1/static/js/453.d1aa94b4.chunk.js",
     "static/media/logo.png": "/sonucctv1/static/media/logo.6bfbd44e29ef9e661708.png",
     "index.html": "/sonucctv1/index.html",
-    "main.17acd829.css.map": "/sonucctv1/static/css/main.17acd829.css.map",
+    "main.83090f46.css.map": "/sonucctv1/static/css/main.83090f46.css.map",
     "main.286e7f65.js.map": "/sonucctv1/static/js/main.286e7f65.js.map",
     "453.d1aa94b4.chunk.js.map": "/sonucctv1/static/js/453.d1aa94b4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.17acd829.css",
+    "static/css/main.83090f46.css",
     "static/js/main.286e7f65.js"
   ]
 }
